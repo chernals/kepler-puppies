@@ -1,7 +1,22 @@
 {
   "paragraphs": [
     {
-      "config": {},
+      "text": "Hello",
+      "dateUpdated": "Sep 9, 2016 11:57:34 AM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
       "settings": {
         "params": {},
         "forms": {}
@@ -13,7 +28,7 @@
       "progressUpdateIntervalMs": 500
     }
   ],
-  "name": "Untitled Note 2",
+  "name": "test/Cassandra connector",
   "id": "2BUSMERH5",
   "angularObjects": {
     "2BVUYC75C:shared_process": [],
@@ -34,6 +49,8 @@
     "2BVRMJUGX:shared_process": [],
     "2BUSVBSQ7:shared_process": []
   },
-  "config": {},
+  "config": {
+    "looknfeel": "default"
+  },
   "info": {}
 }
